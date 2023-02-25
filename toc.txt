@@ -1,5 +1,6 @@
 TABLE OF CONTENT
 lets add a new line
+changing a line
 Creating Snapshots
   - Initializing a repository
   - Staging changes
